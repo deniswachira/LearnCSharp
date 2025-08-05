@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Web Archive (adoc)" type="StardustRunConfiguration" factoryName="save-as-zip">
+    <option name="folderPath" value="$PROJECT_DIR$" />
+    <option name="instanceId" value="adoc" />
+    <option name="instanceName" value="C# Fundamentals" />
+    <option name="moduleName" value="Writerside" />
+    <method v="2" />
+  </configuration>
+</component>

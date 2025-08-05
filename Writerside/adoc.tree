@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="adoc"
+                 name="C# Fundamentals"
+                 start-page="api-docs.md">
+
+    <toc-element topic="api-docs.md"/>
+    <toc-element topic="C-Syntax-Variables-Data-Types-Operators.md"/>
+    <toc-element topic="Control-Flow-if-else-switch-loops.md"/>
+</instance-profile>
