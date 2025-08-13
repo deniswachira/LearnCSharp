@@ -1,17 +1,7 @@
 # C# Fundamentals
-## Introduction
 
-The C# language is the most popular language for the .NET platform, a free, cross-platform, open source development environment. C# programs can run on 
-many different devices, from Internet of Things (IoT) devices to the cloud and everywhere in between. You can write apps for phone, desktop, and laptop computers and servers.
-
-C# is a cross-platform general purpose language that makes developers productive while writing highly performant code.
-
-C# is in the C family of languages. C# syntax is familiar if you used C, C++, JavaScript, TypeScript, or Java. Like C and C++, semi-colons (;) define the end of statements. C# 
-identifiers are case-sensitive. C# has the same use of braces, { and }, control statements like if, else and switch, and looping constructs like for, and while. C# also has a foreach statement for any collection type.
 
 ## Hello world
-
-Provide some simple usage examples to help users get started quickly.
 
 ```C#
 // This line prints "Hello, World"

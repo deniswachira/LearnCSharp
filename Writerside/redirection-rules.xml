@@ -66,4 +66,8 @@
         <description>Created after removal of "API Quickstart" from API Docs</description>
         <accepts>API-quickstart.html</accepts>
     </rule>
+    <rule id="d17e63f">
+        <description>Created after removal of "What is a Console Application?" from C# Fundamentals</description>
+        <accepts>What-is-a-Console-Application.html</accepts>
+    </rule>
 </rules>
